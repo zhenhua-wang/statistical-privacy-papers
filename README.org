@@ -1,6 +1,5 @@
 #+title: Statistical Privacy Papers
 #+author: Zhenhua Wang
-#+OPTIONS: num:nil toc:nil
 
 -----
 
