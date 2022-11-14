@@ -2,7 +2,10 @@
 #+author: Zhenhua Wang
 
 -----
+* Table of Contents                                           :TOC:
+- [[#statistical-disclosure-limitation][Statistical Disclosure Limitation]]
+  - [[#synthetic-data][Synthetic Data]]
 
-* Synthetic Data
+* Statistical Disclosure Limitation
+** Synthetic Data
 - Risk-Efficient Bayesian Data Synthesis for Privacy Protection
-  
