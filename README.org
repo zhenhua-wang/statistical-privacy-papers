@@ -3,3 +3,6 @@
 
 -----
 
+* Synthetic Data
+- Risk-Efficient Bayesian Data Synthesis for Privacy Protection
+  
