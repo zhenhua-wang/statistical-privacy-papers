@@ -8,4 +8,4 @@
 
 * Statistical Disclosure Limitation
 ** Synthetic Data
-- Risk-Efficient Bayesian Data Synthesis for Privacy Protection
+- Estimating Risks of Identification Disclosure in Partially Synthetic Data
