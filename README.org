@@ -4,13 +4,13 @@
 -----
 * Table of Contents                                           :TOC:
 - [[#privacy-definition][Privacy definition]]
+- [[#disclosure-risk-measure][Disclosure Risk Measure]]
 - [[#data-avoidance-method][Data Avoidance Method]]
   - [[#synthetic-data][Synthetic Data]]
-- [[#disclosure-risk-measure][Disclosure Risk Measure]]
 
 * Privacy definition
+* Disclosure Risk Measure
+1. [[https://journalprivacyconfidentiality.org/index.php/jpc/article/view/635][Bayesian Estimation of Disclosure Risks for Multiply Imputed, Synthetic Data]]. Reiter, Jerome P., Quanli Wang, and Biyuan Zhang.
+
 * Data Avoidance Method
 ** Synthetic Data
-1. Estimating Risks of Identification Disclosure in Partially Synthetic Data
-
-* Disclosure Risk Measure
