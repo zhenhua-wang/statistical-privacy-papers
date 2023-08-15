@@ -3,9 +3,14 @@
 
 -----
 * Table of Contents                                           :TOC:
-- [[#statistical-disclosure-limitation][Statistical Disclosure Limitation]]
+- [[#privacy-definition][Privacy definition]]
+- [[#data-avoidance-method][Data Avoidance Method]]
   - [[#synthetic-data][Synthetic Data]]
+- [[#disclosure-risk-measure][Disclosure Risk Measure]]
 
-* Statistical Disclosure Limitation
+* Privacy definition
+* Data Avoidance Method
 ** Synthetic Data
-- Estimating Risks of Identification Disclosure in Partially Synthetic Data
+1. Estimating Risks of Identification Disclosure in Partially Synthetic Data
+
+* Disclosure Risk Measure
