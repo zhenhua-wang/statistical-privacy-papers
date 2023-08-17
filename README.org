@@ -10,7 +10,10 @@
 
 * Privacy definition
 * Disclosure Risk Measure
-1. [[https://journalprivacyconfidentiality.org/index.php/jpc/article/view/635][Bayesian Estimation of Disclosure Risks for Multiply Imputed, Synthetic Data]]. Reiter, Jerome P., Quanli Wang, and Biyuan Zhang.
+1. [[https://www.researchgate.net/profile/Diane-Lambert/publication/243778727_Disclosure-Limited_Data_Dissemination/links/561d3aac08aec7945a252e1b/Disclosure-Limited-Data-Dissemination.pdf][Disclosure Limited Data Dissemination]]. George T. Duncan, and Diane Lambert.
+2. [[https://journalprivacyconfidentiality.org/index.php/jpc/article/view/635][Bayesian Estimation of Disclosure Risks for Multiply Imputed, Synthetic Data]]. Reiter, Jerome P., Quanli Wang, and Biyuan Zhang.
+3. [[https://sdcpractice.readthedocs.io/en/latest/measure_risk.html#outlier-detection][Statistical Disclosure Control: A Practice Guide]]. Benschop, Thijs, Cathrine Machingauta, and Matthew Welch.
+4. [[https://academic.oup.com/jrsssb/article/64/4/855/7098607][A Measure of Disclosure Risk for Microdata]]. C. J. Skinner, and M. J. Elliot.
 
 * Data Avoidance Method
 ** Synthetic Data
